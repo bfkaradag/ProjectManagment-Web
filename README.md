@@ -21,3 +21,5 @@ You can login with these accounts
  username: user1 user2 user3 
  
  password: user1 user2 user3
+
+! I recommend run this project on Google Chrome for SSL, http etc. errors
