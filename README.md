@@ -18,6 +18,6 @@ You can login with these accounts
  
   ## worker
 
- username: username1 username2 username3 
+ username: user1 user2 user3 
  
- password: username1 username2 username3
+ password: user1 user2 user3
